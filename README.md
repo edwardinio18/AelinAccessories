@@ -19,7 +19,7 @@ Follow these instructions to get the project up and running on your local machin
 ### Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/edwardinio18/AelinAccessories
+   git clone https://github.com/edwardinio18/AelinAccessories.git
 2. Upload the project files to your web server.
 3. Access `index.php` from your web server to start exploring the store.
 
